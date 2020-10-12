@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
-step1
+<body> 
+step1 step2
 </body>
 </html>
